@@ -1,0 +1,4 @@
+{
+  "editor.defaultFormatter": "rubocop.vscode-rubocop",
+  "notebook.defaultFormatter": null
+}
